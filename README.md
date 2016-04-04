@@ -1,8 +1,8 @@
 # What's Wrong With This Thing?!
 
-## Fork a Repository
+## Fork the Repository
 
-[I've created a repository for this project on Github.](https://github.com/TIYRaleigh/tiy-java-whats-wrong-with-this-thing) Fork this repository to create a version for yourself.
+[I've created a repository for this project on Github.](https://github.com/TIYRaleigh/tiy-java-whats-wrong-with-this-thing) [Fork this repository](https://help.github.com/articles/fork-a-repo/) to create a version for yourself.
 
 ## Instructions
 
