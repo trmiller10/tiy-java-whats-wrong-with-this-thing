@@ -1,5 +1,5 @@
 
-public class Humdrum {
+public class Conundrum {
 
     public static void main(String[] args){
 

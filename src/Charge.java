@@ -1,7 +1,7 @@
 
 public class Charge {
 
-     public void main(String[] args){
+     public static void main(String[] args){
 
          boolean nearTeslaCoil = true;
 

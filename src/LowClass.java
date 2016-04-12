@@ -1,5 +1,5 @@
 
-public LowClass {
+public class LowClass {
 
     public static void main(String[] args){
 
